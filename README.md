@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning the above
 - 💞️ I’m looking to collaborate on Minecraft Client Development
 - 📫 How to reach me 
-      <\br> (i) Discord - Bagula ᴬᴬᵀ#7569
-      <\br> (ii) Instagram - gautam572_
+      \(i) Discord - Bagula ᴬᴬᵀ#7569
+      \(ii) Instagram - gautam572_
 
 <!---
 Gixu572/Gixu572 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
